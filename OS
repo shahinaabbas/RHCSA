@@ -1,0 +1,18 @@
+OS
+Operating System is system software that acts as an interface between the user and the computer hardware.
+It manages resources such as CPU, memory, files, and devices, and provides an environment for applications to run.
+user intract os through shell
+                             GUI
+                             CLI
+SHELL
+A command interpreter that allows users to interact with the kernel.
+Converts user commands into system calls 
+bash =bourne again shell
+STRUCTURE OS
+  user
+  shell
+  kernal
+  hardware 
+The OS interacts with hardware using device drivers. is spl type software it take 
+genrl info frm os turn them into spcific command that hardware can undewrstand
+
